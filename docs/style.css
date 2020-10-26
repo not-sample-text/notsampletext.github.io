@@ -1,0 +1,45 @@
+body {
+  background-image: linear-gradient(to bottom, #57a1e0, #16151a);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+img {
+  width: 518.4px;
+  height: 345.6px;
+  margin-bottom: 5px;
+}
+
+#rodi {
+  filter: drop-shadow(-8px 8px 10px #00000066);
+}
+
+#flowers {
+  filter: drop-shadow(-8px 8px 10px #00000066) saturate(2.5);
+}
+
+#other {
+  filter: drop-shadow(-8px 8px 10px #00000066);
+}
+
+#r {
+  color: magenta;
+  filter: drop-shadow(2.5px 2.5px 1px #3b003b);
+  border-bottom: solid #ff7bff 1px;
+}
+
+#f {
+  color: #ff9900;
+  filter: drop-shadow(2.5px 2.5px 1px #6e4200);
+  border-bottom: solid #ffb74a 1px;
+}
+
+#a {
+  color: #33ff00;
+  filter: drop-shadow(2.5px 2.5px 1px #0e4400);
+  border-bottom: solid #89ff6b 1px;
+}
+
+#mana {
+  margin-top: -5px;
+}
